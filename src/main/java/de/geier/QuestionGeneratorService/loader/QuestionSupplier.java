@@ -45,6 +45,7 @@ public class QuestionSupplier {
 		System.out.println(printLine);
 	}
 	
+	// so it doesnt run out of questions
 	void reloadIfNessecary() {
 		if(this.questions.size()==0) {
 			loadQuestions();
