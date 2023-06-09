@@ -19,11 +19,6 @@ public class QuestionController {
         this.supplier = questionSupplier;
     }
     
-    @RequestMapping("/")
-    public String home() {
-        return "index";
-    }
-    
     @GetMapping("/ping")
     public String getPing(){
     	return "QuestionGeneratorService am Start ...";
