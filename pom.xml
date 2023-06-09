@@ -16,6 +16,7 @@
 	<description>Spring Boot Project to generate Questions</description>
 	<properties>
 		<java.version>17</java.version>
+		
 	</properties>
 	<dependencies>
 		<dependency>
@@ -41,6 +42,11 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+
+				<configuration>
+					<source>${java.version}</source>
+					<target>${java.version}</target>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>

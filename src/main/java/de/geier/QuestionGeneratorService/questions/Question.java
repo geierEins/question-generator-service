@@ -8,6 +8,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class Question {
 
+	public QuestionType questionType;
 	protected String candidate;
 	protected String body;
 	protected String unit;
