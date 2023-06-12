@@ -7,4 +7,9 @@ public class QuestionHowTall extends Question {
 		this.unit = "Centimeter";
 		body = "Wie groß ist ";
 	}
+	
+	@Override
+	public String questionToString() {
+		return body + candidate + "?" + " (in cm)";
+	}
 }
