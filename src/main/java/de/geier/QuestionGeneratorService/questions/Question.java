@@ -12,9 +12,9 @@ public class Question {
 	protected String candidate;
 	protected String body;
 	protected String unit;
-	protected int correctAnswer;
+	protected Number correctAnswer;
 
-	public Question(String candidate, int correctAnswer) {
+	public Question(String candidate, Number correctAnswer) {
 		this.candidate = candidate;
 		this.correctAnswer = correctAnswer;
 	}

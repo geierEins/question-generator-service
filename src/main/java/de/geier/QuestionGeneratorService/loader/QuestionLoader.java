@@ -79,7 +79,7 @@ public class QuestionLoader {
 			break;
 		case HOW_MANY_INHABITANTS:
 			for (int i = 0; i < data.length; i += 2) {
-				questions.add(new QuestionInhabitants(data[i], Integer.parseInt(data[i + 1])));
+				questions.add(new QuestionInhabitants(data[i], Long.parseLong(data[i + 1])));
 			}
 			break;
 		case BORN_WHICH_YEAR:
