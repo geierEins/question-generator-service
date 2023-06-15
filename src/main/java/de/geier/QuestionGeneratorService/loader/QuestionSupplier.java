@@ -30,14 +30,14 @@ public class QuestionSupplier {
 
 	private void loadQuestions() {
 		// load different types of questions into global question list
-//		System.out.println(printLine);
-//		loadQuestionTypeIntoQuestions(QuestionType.HOW_HIGH);
-//		loadQuestionTypeIntoQuestions(QuestionType.HOW_TALL);
-//		loadQuestionTypeIntoQuestions(QuestionType.WHEN_RELEASED);
-//		loadQuestionTypeIntoQuestions(QuestionType.DISTANCE_BETWEEN);
-//		loadQuestionTypeIntoQuestions(QuestionType.IN_WHICH_YEAR);
+		System.out.println(printLine);
+		loadQuestionTypeIntoQuestions(QuestionType.HOW_HIGH);
+		loadQuestionTypeIntoQuestions(QuestionType.HOW_TALL);
+		loadQuestionTypeIntoQuestions(QuestionType.WHEN_RELEASED);
+		loadQuestionTypeIntoQuestions(QuestionType.DISTANCE_BETWEEN);
+		loadQuestionTypeIntoQuestions(QuestionType.IN_WHICH_YEAR);
 		loadQuestionTypeIntoQuestions(QuestionType.HOW_MANY_INHABITANTS);
-//		loadQuestionTypeIntoQuestions(QuestionType.BORN_WHICH_YEAR);
+		loadQuestionTypeIntoQuestions(QuestionType.BORN_WHICH_YEAR);
 //		loadQuestionTypeIntoQuestions(QuestionType.HOW_HIGH_TESTDATA);
 		System.out.println(printLine);
 		System.out.println("Anzahl Datensätze aus Files gesamt: " + this.qLoader.getDataSetsTotal());
