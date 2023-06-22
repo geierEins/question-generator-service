@@ -38,6 +38,7 @@ public class QuestionSupplier {
 		loadQuestionTypeIntoQuestions(QuestionType.IN_WHICH_YEAR);
 		loadQuestionTypeIntoQuestions(QuestionType.HOW_MANY_INHABITANTS);
 		loadQuestionTypeIntoQuestions(QuestionType.BORN_WHICH_YEAR);
+		loadQuestionTypeIntoQuestions(QuestionType.HOW_MANY);
 //		loadQuestionTypeIntoQuestions(QuestionType.HOW_HIGH_TESTDATA);
 		System.out.println(printLine);
 		System.out.println("Anzahl Datensätze aus Files gesamt: " + this.qLoader.getDataSetsTotal());
@@ -57,6 +58,7 @@ public class QuestionSupplier {
 		this.questions.addAll(sortOutDuplicates(qLoader.loadQuestionsForQuestionType(questionType)));
 	}
 
+	// works only within one type of questions, otherwise two different questions might be recognized as the same questions
 	private ArrayList<Question> sortOutDuplicates(ArrayList<Question> questions) {
 		ArrayList<Question> uniqueQuestions = new ArrayList<>();
 		HashSet<String> uniqueCandidates = new HashSet<>();

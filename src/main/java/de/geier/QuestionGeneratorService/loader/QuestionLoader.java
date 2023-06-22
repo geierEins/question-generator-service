@@ -10,6 +10,7 @@ import de.geier.QuestionGeneratorService.questions.Question;
 import de.geier.QuestionGeneratorService.questions.QuestionBornWhen;
 import de.geier.QuestionGeneratorService.questions.QuestionDistance;
 import de.geier.QuestionGeneratorService.questions.QuestionHowHigh;
+import de.geier.QuestionGeneratorService.questions.QuestionHowMany;
 import de.geier.QuestionGeneratorService.questions.QuestionHowTall;
 import de.geier.QuestionGeneratorService.questions.QuestionInWhichYear;
 import de.geier.QuestionGeneratorService.questions.QuestionInhabitants;
@@ -48,51 +49,42 @@ public class QuestionLoader {
 	public void clearDataSetsTotal(){
 		this.dataSetsTotal=0;
 	}
-
+	
 	private ArrayList<Question> mapDataToQuestionsList(String[] data, QuestionType questionType) {
-		ArrayList<Question> questions = new ArrayList<Question>();
-		switch (questionType) {
-		case HOW_TALL:
-			for (int i = 0; i < data.length; i += 2) {
-				questions.add(new QuestionHowTall(data[i], Integer.parseInt(data[i + 1])));
-			}
-			break;
-		case HOW_HIGH:
-			for (int i = 0; i < data.length; i += 2) {
-				questions.add(new QuestionHowHigh(data[i], Integer.parseInt(data[i + 1])));
-			}
-			break;
-		case WHEN_RELEASED:
-			for (int i = 0; i < data.length; i += 2) {
-				questions.add(new QuestionWhenReleased(data[i], Integer.parseInt(data[i + 1])));
-			}
-			break;
-		case DISTANCE_BETWEEN:
-			for (int i = 0; i < data.length; i += 2) {
-				questions.add(new QuestionDistance(data[i], Integer.parseInt(data[i + 1])));
-			}
-			break;
-		case IN_WHICH_YEAR:
-			for (int i = 0; i < data.length; i += 2) {
-				questions.add(new QuestionInWhichYear(data[i], Integer.parseInt(data[i + 1])));
-			}
-			break;
-		case HOW_MANY_INHABITANTS:
-			for (int i = 0; i < data.length; i += 2) {
-				questions.add(new QuestionInhabitants(data[i], Long.parseLong(data[i + 1])));
-			}
-			break;
-		case BORN_WHICH_YEAR:
-			for (int i = 0; i < data.length; i += 2) {
-				questions.add(new QuestionBornWhen(data[i], Integer.parseInt(data[i + 1])));
-			}
-			break;
-		case HOW_HIGH_TESTDATA:
-			for (int i = 0; i < data.length; i += 2) {
-				questions.add(new QuestionHowHigh(data[i], Integer.parseInt(data[i + 1])));
-			}
-			break;
-		}
-		return questions;
+	    ArrayList<Question> questions = new ArrayList<Question>();
+	    for (int i = 0; i < data.length; i += 2) {
+	        Question question = null;
+	        switch (questionType) {
+	            case HOW_TALL:
+	                question = new QuestionHowTall(data[i], Integer.parseInt(data[i + 1]));
+	                break;
+	            case HOW_HIGH:
+	            case HOW_HIGH_TESTDATA:
+	                question = new QuestionHowHigh(data[i], Integer.parseInt(data[i + 1]));
+	                break;
+	            case WHEN_RELEASED:
+	                question = new QuestionWhenReleased(data[i], Integer.parseInt(data[i + 1]));
+	                break;
+	            case DISTANCE_BETWEEN:
+	                question = new QuestionDistance(data[i], Integer.parseInt(data[i + 1]));
+	                break;
+	            case IN_WHICH_YEAR:
+	                question = new QuestionInWhichYear(data[i], Integer.parseInt(data[i + 1]));
+	                break;
+	            case HOW_MANY_INHABITANTS:
+	                question = new QuestionInhabitants(data[i], Long.parseLong(data[i + 1]));
+	                break;
+	            case BORN_WHICH_YEAR:
+	                question = new QuestionBornWhen(data[i], Integer.parseInt(data[i + 1]));
+	                break;
+	            case HOW_MANY:
+	                question = new QuestionHowMany(data[i], Integer.parseInt(data[i + 1]));
+	                break;
+	        }
+	        if (question != null) {
+	            questions.add(question);
+	        }
+	    }
+	    return questions;
 	}
 }
