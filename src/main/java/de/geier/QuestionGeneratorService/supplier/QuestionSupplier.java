@@ -1,4 +1,4 @@
-package de.geier.QuestionGeneratorService.loader;
+package de.geier.QuestionGeneratorService.supplier;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -6,6 +6,7 @@ import java.util.Random;
 
 import org.springframework.context.annotation.Configuration;
 
+import de.geier.QuestionGeneratorService.loader.QuestionLoader;
 import de.geier.QuestionGeneratorService.questions.Question;
 import de.geier.QuestionGeneratorService.questions.QuestionType;
 

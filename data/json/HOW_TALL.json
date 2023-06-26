@@ -1,0 +1,526 @@
+[
+	{
+		"question": "Wie groß ist Kobe Bryant? (in cm)",
+		"answer": "198"
+	},
+	{
+		"question": "Wie groß ist Barack Obama? (in cm)",
+		"answer": "185"
+	},
+	{
+		"question": "Wie groß ist Taylor Swift? (in cm)",
+		"answer": "178"
+	},
+	{
+		"question": "Wie groß ist Angelina Jolie? (in cm)",
+		"answer": "169"
+	},
+	{
+		"question": "Wie groß ist Tom Cruise? (in cm)",
+		"answer": "170"
+	},
+	{
+		"question": "Wie groß ist Cristiano Ronaldo? (in cm)",
+		"answer": "187"
+	},
+	{
+		"question": "Wie groß ist Beyoncé? (in cm)",
+		"answer": "169"
+	},
+	{
+		"question": "Wie groß ist Jennifer Lawrence? (in cm)",
+		"answer": "175"
+	},
+	{
+		"question": "Wie groß ist Will Smith? (in cm)",
+		"answer": "188"
+	},
+	{
+		"question": "Wie groß ist Emma Watson? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Justin Bieber? (in cm)",
+		"answer": "175"
+	},
+	{
+		"question": "Wie groß ist Kim Kardashian? (in cm)",
+		"answer": "160"
+	},
+	{
+		"question": "Wie groß ist Leonardo DiCaprio? (in cm)",
+		"answer": "183"
+	},
+	{
+		"question": "Wie groß ist Oprah Winfrey? (in cm)",
+		"answer": "171"
+	},
+	{
+		"question": "Wie groß ist Dwayne Johnson? (in cm)",
+		"answer": "193"
+	},
+	{
+		"question": "Wie groß ist Ariana Grande? (in cm)",
+		"answer": "153"
+	},
+	{
+		"question": "Wie groß ist Scarlett Johansson? (in cm)",
+		"answer": "160"
+	},
+	{
+		"question": "Wie groß ist Cristiano Ronaldo? (in cm)",
+		"answer": "187"
+	},
+	{
+		"question": "Wie groß ist Billie Eilish? (in cm)",
+		"answer": "161"
+	},
+	{
+		"question": "Wie groß ist Ryan Reynolds? (in cm)",
+		"answer": "188"
+	},
+	{
+		"question": "Wie groß ist Adele? (in cm)",
+		"answer": "175"
+	},
+	{
+		"question": "Wie groß ist Priyanka Chopra? (in cm)",
+		"answer": "169"
+	},
+	{
+		"question": "Wie groß ist Rihanna? (in cm)",
+		"answer": "173"
+	},
+	{
+		"question": "Wie groß ist Johnny Depp? (in cm)",
+		"answer": "178"
+	},
+	{
+		"question": "Wie groß ist Megan Fox? (in cm)",
+		"answer": "163"
+	},
+	{
+		"question": "Wie groß ist Emma Stone? (in cm)",
+		"answer": "168"
+	},
+	{
+		"question": "Wie groß ist Brad Pitt? (in cm)",
+		"answer": "180"
+	},
+	{
+		"question": "Wie groß ist Selena Gomez? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Chris Hemsworth? (in cm)",
+		"answer": "191"
+	},
+	{
+		"question": "Wie groß ist Miley Cyrus? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Leonardo DiCaprio? (in cm)",
+		"answer": "183"
+	},
+	{
+		"question": "Wie groß ist Emma Watson? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Justin Bieber? (in cm)",
+		"answer": "175"
+	},
+	{
+		"question": "Wie groß ist Kim Kardashian? (in cm)",
+		"answer": "160"
+	},
+	{
+		"question": "Wie groß ist Oprah Winfrey? (in cm)",
+		"answer": "171"
+	},
+	{
+		"question": "Wie groß ist Dwayne Johnson? (in cm)",
+		"answer": "193"
+	},
+	{
+		"question": "Wie groß ist Ariana Grande? (in cm)",
+		"answer": "153"
+	},
+	{
+		"question": "Wie groß ist Scarlett Johansson? (in cm)",
+		"answer": "160"
+	},
+	{
+		"question": "Wie groß ist Cristiano Ronaldo? (in cm)",
+		"answer": "187"
+	},
+	{
+		"question": "Wie groß ist Billie Eilish? (in cm)",
+		"answer": "161"
+	},
+	{
+		"question": "Wie groß ist Ryan Reynolds? (in cm)",
+		"answer": "188"
+	},
+	{
+		"question": "Wie groß ist Adele? (in cm)",
+		"answer": "175"
+	},
+	{
+		"question": "Wie groß ist Priyanka Chopra? (in cm)",
+		"answer": "169"
+	},
+	{
+		"question": "Wie groß ist Rihanna? (in cm)",
+		"answer": "173"
+	},
+	{
+		"question": "Wie groß ist Johnny Depp? (in cm)",
+		"answer": "178"
+	},
+	{
+		"question": "Wie groß ist Megan Fox? (in cm)",
+		"answer": "163"
+	},
+	{
+		"question": "Wie groß ist Emma Stone? (in cm)",
+		"answer": "168"
+	},
+	{
+		"question": "Wie groß ist Brad Pitt? (in cm)",
+		"answer": "180"
+	},
+	{
+		"question": "Wie groß ist Selena Gomez? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Chris Hemsworth? (in cm)",
+		"answer": "191"
+	},
+	{
+		"question": "Wie groß ist Miley Cyrus? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Leonardo DiCaprio? (in cm)",
+		"answer": "183"
+	},
+	{
+		"question": "Wie groß ist Emma Watson? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Justin Bieber? (in cm)",
+		"answer": "175"
+	},
+	{
+		"question": "Wie groß ist Kim Kardashian? (in cm)",
+		"answer": "160"
+	},
+	{
+		"question": "Wie groß ist Oprah Winfrey? (in cm)",
+		"answer": "171"
+	},
+	{
+		"question": "Wie groß ist Dwayne Johnson? (in cm)",
+		"answer": "193"
+	},
+	{
+		"question": "Wie groß ist Ariana Grande? (in cm)",
+		"answer": "153"
+	},
+	{
+		"question": "Wie groß ist Scarlett Johansson? (in cm)",
+		"answer": "160"
+	},
+	{
+		"question": "Wie groß ist Cristiano Ronaldo? (in cm)",
+		"answer": "187"
+	},
+	{
+		"question": "Wie groß ist Billie Eilish? (in cm)",
+		"answer": "161"
+	},
+	{
+		"question": "Wie groß ist Ryan Reynolds? (in cm)",
+		"answer": "188"
+	},
+	{
+		"question": "Wie groß ist Adele? (in cm)",
+		"answer": "175"
+	},
+	{
+		"question": "Wie groß ist Priyanka Chopra? (in cm)",
+		"answer": "169"
+	},
+	{
+		"question": "Wie groß ist Rihanna? (in cm)",
+		"answer": "173"
+	},
+	{
+		"question": "Wie groß ist Johnny Depp? (in cm)",
+		"answer": "178"
+	},
+	{
+		"question": "Wie groß ist Megan Fox? (in cm)",
+		"answer": "163"
+	},
+	{
+		"question": "Wie groß ist Emma Stone? (in cm)",
+		"answer": "168"
+	},
+	{
+		"question": "Wie groß ist Brad Pitt? (in cm)",
+		"answer": "180"
+	},
+	{
+		"question": "Wie groß ist Selena Gomez? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Chris Hemsworth? (in cm)",
+		"answer": "191"
+	},
+	{
+		"question": "Wie groß ist Miley Cyrus? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Leonardo DiCaprio? (in cm)",
+		"answer": "183"
+	},
+	{
+		"question": "Wie groß ist Emma Watson? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Justin Bieber? (in cm)",
+		"answer": "175"
+	},
+	{
+		"question": "Wie groß ist Kim Kardashian? (in cm)",
+		"answer": "160"
+	},
+	{
+		"question": "Wie groß ist Oprah Winfrey? (in cm)",
+		"answer": "171"
+	},
+	{
+		"question": "Wie groß ist Dwayne Johnson? (in cm)",
+		"answer": "193"
+	},
+	{
+		"question": "Wie groß ist Ariana Grande? (in cm)",
+		"answer": "153"
+	},
+	{
+		"question": "Wie groß ist Scarlett Johansson? (in cm)",
+		"answer": "160"
+	},
+	{
+		"question": "Wie groß ist Cristiano Ronaldo? (in cm)",
+		"answer": "187"
+	},
+	{
+		"question": "Wie groß ist Billie Eilish? (in cm)",
+		"answer": "161"
+	},
+	{
+		"question": "Wie groß ist Ryan Reynolds? (in cm)",
+		"answer": "188"
+	},
+	{
+		"question": "Wie groß ist Adele? (in cm)",
+		"answer": "175"
+	},
+	{
+		"question": "Wie groß ist Priyanka Chopra? (in cm)",
+		"answer": "169"
+	},
+	{
+		"question": "Wie groß ist Rihanna? (in cm)",
+		"answer": "173"
+	},
+	{
+		"question": "Wie groß ist Johnny Depp? (in cm)",
+		"answer": "178"
+	},
+	{
+		"question": "Wie groß ist Megan Fox? (in cm)",
+		"answer": "163"
+	},
+	{
+		"question": "Wie groß ist Emma Stone? (in cm)",
+		"answer": "168"
+	},
+	{
+		"question": "Wie groß ist Brad Pitt? (in cm)",
+		"answer": "180"
+	},
+	{
+		"question": "Wie groß ist Selena Gomez? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Chris Hemsworth? (in cm)",
+		"answer": "191"
+	},
+	{
+		"question": "Wie groß ist Miley Cyrus? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Leonardo DiCaprio? (in cm)",
+		"answer": "183"
+	},
+	{
+		"question": "Wie groß ist Emma Watson? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Justin Bieber? (in cm)",
+		"answer": "175"
+	},
+	{
+		"question": "Wie groß ist Kim Kardashian? (in cm)",
+		"answer": "160"
+	},
+	{
+		"question": "Wie groß ist Oprah Winfrey? (in cm)",
+		"answer": "171"
+	},
+	{
+		"question": "Wie groß ist Dwayne Johnson? (in cm)",
+		"answer": "193"
+	},
+	{
+		"question": "Wie groß ist Ariana Grande? (in cm)",
+		"answer": "153"
+	},
+	{
+		"question": "Wie groß ist Scarlett Johansson? (in cm)",
+		"answer": "160"
+	},
+	{
+		"question": "Wie groß ist Cristiano Ronaldo? (in cm)",
+		"answer": "187"
+	},
+	{
+		"question": "Wie groß ist Billie Eilish? (in cm)",
+		"answer": "161"
+	},
+	{
+		"question": "Wie groß ist Ryan Reynolds? (in cm)",
+		"answer": "188"
+	},
+	{
+		"question": "Wie groß ist Adele? (in cm)",
+		"answer": "175"
+	},
+	{
+		"question": "Wie groß ist Priyanka Chopra? (in cm)",
+		"answer": "169"
+	},
+	{
+		"question": "Wie groß ist Rihanna? (in cm)",
+		"answer": "173"
+	},
+	{
+		"question": "Wie groß ist Johnny Depp? (in cm)",
+		"answer": "178"
+	},
+	{
+		"question": "Wie groß ist Megan Fox? (in cm)",
+		"answer": "163"
+	},
+	{
+		"question": "Wie groß ist Emma Stone? (in cm)",
+		"answer": "168"
+	},
+	{
+		"question": "Wie groß ist Brad Pitt? (in cm)",
+		"answer": "180"
+	},
+	{
+		"question": "Wie groß ist Selena Gomez? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Chris Hemsworth? (in cm)",
+		"answer": "191"
+	},
+	{
+		"question": "Wie groß ist Miley Cyrus? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Leonardo DiCaprio? (in cm)",
+		"answer": "183"
+	},
+	{
+		"question": "Wie groß ist Emma Watson? (in cm)",
+		"answer": "165"
+	},
+	{
+		"question": "Wie groß ist Justin Bieber? (in cm)",
+		"answer": "175"
+	},
+	{
+		"question": "Wie groß ist Kim Kardashian? (in cm)",
+		"answer": "160"
+	},
+	{
+		"question": "Wie groß ist Oprah Winfrey? (in cm)",
+		"answer": "171"
+	},
+	{
+		"question": "Wie groß ist Dwayne Johnson? (in cm)",
+		"answer": "193"
+	},
+	{
+		"question": "Wie groß ist Ariana Grande? (in cm)",
+		"answer": "153"
+	},
+	{
+		"question": "Wie groß ist Scarlett Johansson? (in cm)",
+		"answer": "160"
+	},
+	{
+		"question": "Wie groß ist Cristiano Ronaldo? (in cm)",
+		"answer": "187"
+	},
+	{
+		"question": "Wie groß ist Billie Eilish? (in cm)",
+		"answer": "161"
+	},
+	{
+		"question": "Wie groß ist Ryan Reynolds? (in cm)",
+		"answer": "188"
+	},
+	{
+		"question": "Wie groß ist Adele? (in cm)",
+		"answer": "175"
+	},
+	{
+		"question": "Wie groß ist Priyanka Chopra? (in cm)",
+		"answer": "169"
+	},
+	{
+		"question": "Wie groß ist Rihanna? (in cm)",
+		"answer": "173"
+	},
+	{
+		"question": "Wie groß ist Johnny Depp? (in cm)",
+		"answer": "178"
+	},
+	{
+		"question": "Wie groß ist Megan Fox? (in cm)",
+		"answer": "163"
+	},
+	{
+		"question": "Wie groß ist Emma Stone? (in cm)",
+		"answer": "168"
+	}
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "question": "Wie viele Atome sind in einem Molekül von Wasser (H2O)?",
+        "answer": 3
+    },
+    {
+        "question": "Wie viele Milliarden Menschen leben derzeit auf der Welt?",
+        "answer": 7.9
+    },
+    {
+        "question": "Wie viele Kilometer beträgt der Erdumfang am Äquator?",
+        "answer": 40075
+    },
+    {
+        "question": "Wie viele Bits sind in einem Byte?",
+        "answer": 8
+    }
+]

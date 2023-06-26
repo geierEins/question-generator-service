@@ -21,7 +21,7 @@ public class QuestionLoader {
 	
 	private int dataSetsTotal;
 
-	private String pathToFiles = "data//";
+	private final String pathToFiles = "data//txt//";
 
 	@SuppressWarnings("null")
 	public ArrayList<Question> loadQuestionsForQuestionType(QuestionType questionType) {
